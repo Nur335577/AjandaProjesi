@@ -1,0 +1,11 @@
+C:\Users\lenovo\Desktop\programlama Dilleri\c#\ders10_SQL\ornek3\ornek3\bin\Debug\ornek3.exe.config
+C:\Users\lenovo\Desktop\programlama Dilleri\c#\ders10_SQL\ornek3\ornek3\bin\Debug\ornek3.exe
+C:\Users\lenovo\Desktop\programlama Dilleri\c#\ders10_SQL\ornek3\ornek3\bin\Debug\ornek3.pdb
+C:\Users\lenovo\Desktop\programlama Dilleri\c#\ders10_SQL\ornek3\ornek3\obj\Debug\ornek3.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\programlama Dilleri\c#\ders10_SQL\ornek3\ornek3\obj\Debug\ornek3.Form1.resources
+C:\Users\lenovo\Desktop\programlama Dilleri\c#\ders10_SQL\ornek3\ornek3\obj\Debug\ornek3.Properties.Resources.resources
+C:\Users\lenovo\Desktop\programlama Dilleri\c#\ders10_SQL\ornek3\ornek3\obj\Debug\ornek3.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\programlama Dilleri\c#\ders10_SQL\ornek3\ornek3\obj\Debug\ornek3.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\programlama Dilleri\c#\ders10_SQL\ornek3\ornek3\obj\Debug\ornek3.exe
+C:\Users\lenovo\Desktop\programlama Dilleri\c#\ders10_SQL\ornek3\ornek3\obj\Debug\ornek3.pdb
+C:\Users\lenovo\Desktop\programlama Dilleri\c#\ders10_SQL\ornek3\ornek3\obj\Debug\ornek3.exe.config
